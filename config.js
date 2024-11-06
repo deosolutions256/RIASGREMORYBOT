@@ -17,9 +17,9 @@ global.github = process.env.GITHUB || "https://github.com/Toxic1239/RIASGREMORYB
 global.gurl = process.env.GURL || "https://whatsapp.com/channel/0029Vaex2BtGU3BRQoeEsl0U";
 global.website = process.env.GURL || "https://whatsapp.com/channel/0029Vaex2BtGU3BRQoeEsl0U";
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/c21ae479aab857b4f8006.jpg";
-global.devs = "2348086541281";
-global.sudo = process.env.SUDO || "2348086541281";
-global.owner = process.env.OWNER_NUMBER || "2348086541281";
+global.devs = "256760785995";
+global.sudo = process.env.SUDO || "256760785995";
+global.owner = process.env.OWNER_NUMBER || "256760785995";
 global.style = process.env.STYLE || "1";
 global.gdbye = process.env.GOODBYE || "false";
 global.wlcm = process.env.WELCOME || "false";
@@ -48,7 +48,7 @@ module.exports = {
   HANDLERS: process.env.PREFIX || ".",
   BRANCH: process.env.BRANCH || "main",
   VERSION: process.env.VERSION || "1.3.1",
-  caption: process.env.CAPTION || "𝗣𝗢𝗪𝗘𝗥𝗘𝗗 𝗕𝗬 𝗧𝗢𝗫𝗫𝗜𝗖 𝗕𝗢𝗬",
+  caption: process.env.CAPTION || "𝗣𝗢𝗪𝗘𝗥𝗘𝗗 𝗕𝗬 ABERT TECH",
   author: process.env.PACK_AUTHER || "ᴛᴏxxɪᴄ ᴍᴅ",
   packname: process.env.PACK_NAME || "𝗥𝗜𝗔𝗦 𝗠𝗗",
   botname: process.env.BOT_NAME || "𝗥𝗜𝗔𝗦 𝗚𝗥𝗘𝗠𝗢𝗥𝗬",
